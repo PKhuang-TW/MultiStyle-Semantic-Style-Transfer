@@ -7,18 +7,18 @@ This project is aimed to transfer different semantic objects in one image into d
 - [x] Video style tranfer
 
 ## Procedure
-![image](https://github.com/PKhuang-TW/MultiStyle_Sematic_Style_Transfer/blob/master/images/procedure.png) <br>
+![image](https://github.com/PKhuang-TW/MultiStyle_Sematic_Style_Transfer/blob/master/imgs/procedure.png) <br>
 
 ## Result
 ### Compare with naive approach
-![image](https://github.com/PKhuang-TW/MultiStyle_Sematic_Style_Transfer/blob/master/images/result.png) 
+![image](https://github.com/PKhuang-TW/MultiStyle_Sematic_Style_Transfer/blob/master/imgs/result.png) 
 <br>
 ### More samples
-<img src="https://github.com/PKhuang-TW/MultiStyle_Sematic_Style_Transfer/blob/master/images/result_1.png" width="45%"> <img src="https://github.com/PKhuang-TW/MultiStyle_Sematic_Style_Transfer/blob/master/images/result_2.png" width="45%">
+<img src="https://github.com/PKhuang-TW/MultiStyle_Sematic_Style_Transfer/blob/master/imgs/result_1.png" width="45%"> <img src="https://github.com/PKhuang-TW/MultiStyle_Sematic_Style_Transfer/blob/master/imgs/result_2.png" width="45%">
 ### Style Blending Loss
-![image](https://github.com/PKhuang-TW/MultiStyle_Sematic_Style_Transfer/blob/master/images/blending.png) <br>
+![image](https://github.com/PKhuang-TW/MultiStyle_Sematic_Style_Transfer/blob/master/imgs/blending.png) <br>
 ### Video Style Transfer
-<img src="https://github.com/PKhuang-TW/MultiStyle_Sematic_Style_Transfer/blob/master/images/video_1.gif" width="45%"> <img src="https://github.com/PKhuang-TW/MultiStyle_Sematic_Style_Transfer/blob/master/images/video_2.gif" width="45%">
+<img src="https://github.com/PKhuang-TW/MultiStyle_Sematic_Style_Transfer/blob/master/imgs/video_1.gif" width="45%"> <img src="https://github.com/PKhuang-TW/MultiStyle_Sematic_Style_Transfer/blob/master/imgs/video_2.gif" width="45%">
 
 <!-- ### 1D visualization
 ![image](https://github.com/PKhuang-TW/GAN_visualization/blob/master/result/1D.gif =250x250) <br>
